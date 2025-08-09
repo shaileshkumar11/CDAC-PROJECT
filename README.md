@@ -2,7 +2,11 @@
 This is our CDAC  project
 
 # Video
-.
+
+https://github.com/user-attachments/assets/2dd8c873-0ebc-4af8-bd4b-ef24635d2ddc
+
+
+
 
 # Photo
 ![COVAS](https://github.com/user-attachments/assets/cd1ded88-4478-42e4-b477-3780012d2ae3)
