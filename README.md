@@ -53,7 +53,7 @@ COVAS implements an **Automatic Braking System (ABS)** with environmental monito
 
 https://github.com/user-attachments/assets/2dd8c873-0ebc-4af8-bd4b-ef24635d2ddc
 
-
+---
 
 
 # Photo
