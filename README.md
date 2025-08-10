@@ -1,4 +1,8 @@
 # COVAS – Collision Avoidance and Vehicle Automation System
+[![Platform](https://img.shields.io/badge/Platform-STM32F407-blue)](#)
+[![Language](https://img.shields.io/badge/Language-Embedded%20C-green)](#)
+[![Protocol](https://img.shields.io/badge/Protocol-CAN-orange)](#)
+
 **COVAS** is a full-stack embedded vehicle safety solution built with STM32F407 microcontrollers, CAN protocol, and standard automotive sensors. Designed for modular deployment, it uses a two-node CAN network where a Transmitter Node collects sensor data (ultrasonic distance, rain status, temperature) and sends it to a Receiver Node that handles automatic braking and driver alerts in real-time.
 
 ---
